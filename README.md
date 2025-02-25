@@ -1,7 +1,7 @@
 <div align="left">
 
 <h1 align="left">Hello ! 😁</h1>
-<p align="left">I'm Bruno Nogueira, a software engineer/web developer driven by curiosity and a love for solving problems.
+<p align="left">I'm Bruno Nogueira, a student software engineer/web developer driven by curiosity and a love for solving problems.
 Here, you'll find my experiments, projects, and ideas! Feel free to explore.</p>
 
 ---
